@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-pocket"
+description = "Server extension for PocketComfy, the ComfyUI remote for Android, Windows and iOS: history with live progress, gallery, favorites, queue control, model downloads."
+version = "2.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/artoyms/ComfyUI-Pocket"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Pocket"
+Icon = ""
